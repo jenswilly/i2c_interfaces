@@ -1,0 +1,6 @@
+int8 address
+uint8 reg
+uint8 value
+---
+bool success
+uint8 value
